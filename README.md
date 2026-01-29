@@ -27,5 +27,3 @@ It analyzes repository popularity, programming language trends, and star distrib
 - Correlation analysis between stars, forks, and issues
 - Programming language popularity trends over time
 - Year-wise repository creation trend
-
----
