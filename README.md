@@ -29,5 +29,3 @@ It analyzes repository popularity, programming language trends, and star distrib
 - Year-wise repository creation trend
 
 ---
-git clone https://github.com/<your-username>/github-repo-analysis.git
-cd github-repo-analysis
